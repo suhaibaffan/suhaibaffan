@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 -->
-- 💼 [LinkedIn Profile.](https://www.linkedin.com/in/suhaib-affan-73732750/)
 - 🔭 I’m currently working on distributed SAaS product.
 - 🌱 I’m currently learning GOLang and Rust
 - 📫 How to reach me: suhaibaffan91@gmail.com.
